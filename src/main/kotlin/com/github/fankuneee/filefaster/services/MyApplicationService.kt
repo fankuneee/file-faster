@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.fankuneee.filefaster.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fankuneee.filefaster.MyBundle
 
 class MyApplicationService {
 
